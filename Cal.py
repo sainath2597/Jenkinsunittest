@@ -8,3 +8,6 @@ class Calculator:
     def sub(self):
         c = self.b-self.a
         return c
+    def mul(self):
+        c = self.a*self.b
+        return c
